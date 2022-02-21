@@ -1,0 +1,59 @@
+<biblioteca>
+    <trabajadores>
+        <trabajador_1>
+            <nombre>Pepillo</nombre>
+            <apellidos>Martínez Carrillo</apellidos>
+            <direccion>Andrea Doria 60B</direccion>
+        </trabajador_1>
+        <trabajador_2>
+            <nombre>Alejandro</nombre>
+            <apellidos>Gallego Elena</apellidos>
+            <direccion>Bernat Rigo 23</direccion>
+        </trabajador_2>
+        <trabajador_3>
+            <nombre>Manuel</nombre>
+            <apellidos>Sanchez Díaz</apellidos>
+            <direccion>Estanislao Figueras</direccion>
+        </trabajador_3>
+    </trabajadores>
+    <secciones>
+        <ciencia_ficcion>
+            <autor>
+                <nombre>Ursula k. Le Guin</nombre>
+                <titulos>
+                    <titulo>Mago de Terramar</titulo>
+                    <titulo>Los desposeídos</titulo>
+                    <titulo>El nombre del mundo</titulo>
+                </titulos>
+            </autor> <autor>
+                <nombre>George Orwell</nombre>
+                <titulos>
+                    <titulo>1984</titulo>
+                    <titulo>Revelión en la granja</titulo>
+                    <titulo>Sin blanca en París y Londres</titulo>
+                </titulos>
+            </autor>
+        </ciencia_ficcion>
+        <fantasía>
+            <autor>
+                <nombre>J.R.R. Tolkien</nombre>
+                <titulos>
+                    <titulo>El Hobbit</titulo>
+                    <titulo>El silmarilion</titulo>
+                    <titulo>Cuentos Inconclusos</titulo>
+                </titulos>
+            </autor>
+            <autor>
+                <nombre>J.K.Rowling</nombre>
+                <titulos>
+                    <titulo>La piedra filosofal</titulo>
+                    <titulo>El caliz de fuego</titulo>
+                    <titulo>La cámara secreta</titulo>
+                </titulos>
+            </autor>
+            
+        </fantasía>
+    </secciones>
+
+
+</biblioteca>

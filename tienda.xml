@@ -1,0 +1,40 @@
+<tienda>
+    <clientes>
+        <cliente>
+
+            <nombre></nombre>
+            <apellido></apellido>
+            <nie></nie>
+            <socio></socio>
+            
+        </cliente>
+
+        <cliente>
+
+            <nombre></nombre>
+            <apellido></apellido>
+            <nie></nie>
+            <socio></socio>
+
+        </cliente>
+    </clientes>
+
+    <productos>
+        <producto>
+
+            <nombre></nombre>
+            <id></id>
+            <stock></stock>
+
+        </producto>
+        <producto>
+
+            <nombre></nombre>
+            <id></id>
+            <stock></stock>
+
+        </producto>
+
+    </productos>
+
+</tienda>
